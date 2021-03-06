@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IS_NFS2010HP_winmn", "IS_NFS2010HP_winmn\IS_NFS2010HP_winmn.vcxproj", "{79921DE2-E296-4113-A9E2-483E20585247}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IS_NFS2010HP_ws2_31", "IS_NFS2010HP_ws2_31\IS_NFS2010HP_ws2_31.vcxproj", "{79921DE2-E296-4113-A9E2-483E20585248}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79921DE2-E296-4113-A9E2-483E20585247}.Release|x64.ActiveCfg = Release|x64
+		{79921DE2-E296-4113-A9E2-483E20585247}.Release|x64.Build.0 = Release|x64
+		{79921DE2-E296-4113-A9E2-483E20585247}.Release|x86.ActiveCfg = Release|Win32
+		{79921DE2-E296-4113-A9E2-483E20585247}.Release|x86.Build.0 = Release|Win32
+		{79921DE2-E296-4113-A9E2-483E20585248}.Release|x64.ActiveCfg = Release|x64
+		{79921DE2-E296-4113-A9E2-483E20585248}.Release|x64.Build.0 = Release|x64
+		{79921DE2-E296-4113-A9E2-483E20585248}.Release|x86.ActiveCfg = Release|Win32
+		{79921DE2-E296-4113-A9E2-483E20585248}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDCB3A9C-B1F4-437B-9321-0D594B82EB73}
+	EndGlobalSection
+EndGlobal
